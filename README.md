@@ -1,3 +1,3 @@
-## Welcome
+ Welcome
 ![Parking Lot Cat](/parkinglotcat.jpg)
 
